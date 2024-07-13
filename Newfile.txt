@@ -1,2 +1,3 @@
 Newfile created 
 deleted the newfile2 
+created a new branch and moved to the branch1 
