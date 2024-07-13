@@ -1,3 +1,4 @@
 Newfile created 
 deleted the newfile2 
 created a new branch and moved to the branch1 
+gonna do commit this file from branch1 to main branch 
